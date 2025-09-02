@@ -1,7 +1,7 @@
 <h3>About me</h3>
 
 - 🤔 Studying new technologies and developing projects about them.
-- 🌱 Learning more about **Node.js, TypeScript and React**.
+- 🌱 Learning more about **PHP, Laravel and React**.
 
 <h3>My stacks</h3>
 
