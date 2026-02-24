@@ -10,8 +10,8 @@
   <br>
 
   <a href="https://github.com/JhonathanHU3">
-    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=JhonathanHU3&show_icons=true&include_all_commits=true&theme=github_dark"/>
-    <img height="160em" src="https://streak-stats.demolab.com?user=JhonathanHU3&theme=github-dark-blue&card_width=500" alt="GitHub Streak" />
+    <img height="160em" src="https://github-stats-extended.vercel.app/api?username=jhonathanscp&show_icons=true&include_all_commits=true&theme=github_dark"/>
+    <img height="160em" src="https://streak-stats.demolab.com?user=jhonathanscp&theme=github-dark-blue&card_width=500" alt="GitHub Streak" />
   </a>
 </div>
 
